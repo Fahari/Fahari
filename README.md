@@ -1,5 +1,5 @@
-#### Hi there 👋
-I am Kevin Kironji, an enthusiast in everything code. A fullstack web developer with a tad-tiny bias in front-end development.
+#### Hi there 😀
+I am Kevin K, an enthusiast in everything code. A fullstack web developer with a tad-tiny bias in front-end development.
 A mantra currently holding; "If it works, it must look good!"
 
 I love working with web frameworks and developing simple tools in my spare time. My go to starterkit being Sveltekit and Tailwind css.
