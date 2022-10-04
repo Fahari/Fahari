@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Kevin Kironji,an enthusiast in everything code. A fullstack web developer with a bias in front-end and an undying thirst for secure web applications. A mantra currently holding; "If it works, it must look good!"
 
 <!--
 **Fahari/Fahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
