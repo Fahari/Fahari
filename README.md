@@ -14,13 +14,9 @@ When not cursing out some hidden bugs, I will be busy looking for flags in CTF s
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahari)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
- 
 <!--
 **Fahari/Fahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
