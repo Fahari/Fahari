@@ -1,3 +1,5 @@
+![9121535_18960](https://user-images.githubusercontent.com/45125575/194305800-2cb5c827-1df6-4bf8-9fd7-e675124539c6.jpg)
+
 #### Hi there 😀
 I am Kevin K, an enthusiast in everything code. A fullstack web developer with a tad-tiny bias in front-end development.
 A mantra currently holding; "If it works, it must look good!"
