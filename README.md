@@ -18,6 +18,8 @@ When not cursing out some hidden bugs, I will be busy looking for flags in CTF s
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahari)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Interactive Contributions
+
 ![Snake animation](https://github.com/fahari/fahari/blob/output/github-contribution-grid-snake.svg)
 
 <!--
