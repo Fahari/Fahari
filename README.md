@@ -79,6 +79,8 @@ When not cursing out some hidden bugs, I will be busy looking for flags in CTF s
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
+</br>
+</br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahari)](https://github.com/anuraghazra/github-readme-stats)
 
